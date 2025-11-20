@@ -1,5 +1,4 @@
-# detector.py
-# Wrapper nhỏ cho YOLOv8 (ultralytics)
+
 from ultralytics import YOLO
 import numpy
 
